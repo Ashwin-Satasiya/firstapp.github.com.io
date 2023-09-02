@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ashwin-Satasiya/firstapp.github.com.io.git/static/css/main.31a75abd.css",
+    "main.js": "/Ashwin-Satasiya/firstapp.github.com.io.git/static/js/main.3622391c.js",
+    "static/js/787.532e15c9.chunk.js": "/Ashwin-Satasiya/firstapp.github.com.io.git/static/js/787.532e15c9.chunk.js",
+    "index.html": "/Ashwin-Satasiya/firstapp.github.com.io.git/index.html",
+    "main.31a75abd.css.map": "/Ashwin-Satasiya/firstapp.github.com.io.git/static/css/main.31a75abd.css.map",
+    "main.3622391c.js.map": "/Ashwin-Satasiya/firstapp.github.com.io.git/static/js/main.3622391c.js.map",
+    "787.532e15c9.chunk.js.map": "/Ashwin-Satasiya/firstapp.github.com.io.git/static/js/787.532e15c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a75abd.css",
+    "static/js/main.3622391c.js"
+  ]
+}
